@@ -1,4 +1,6 @@
 # Mental Health & Workplace Trends Analysis
+🚀 **[Live App →](https://mental-health-workplace-analysis-mjvcahfnyhdcvvhjqta6xg.streamlit.app)**
+```
 **Analyst:** Nigel T. Chihuri | **Date:** March 2026
 
 ![Dashboard](mental_health_dashboard.png)
