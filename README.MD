@@ -1,14 +1,13 @@
 # Mental Health & Workplace Trends Analysis
+
 🚀 **[Live App →](https://mental-health-workplace-analysis-mjvcahfnyhdcvvhjqta6xg.streamlit.app)**
-```
+
 **Analyst:** Nigel T. Chihuri | **Date:** March 2026
 
 ![Dashboard](mental_health_dashboard.png)
 
 ## Overview
-Analysis of 60,186 responses from the OSMI Mental Health in Tech Survey
-to identify predictors of mental health treatment-seeking behaviour
-in the technology industry.
+Analysis of 60,186 responses from the OSMI Mental Health in Tech Survey to identify predictors of mental health treatment-seeking behaviour in the technology industry.
 
 ## Tools & Libraries
 `Python` `Pandas` `Scikit-learn` `SciPy` `Seaborn` `Matplotlib`
@@ -32,5 +31,7 @@ in the technology industry.
 |---|---|
 | `mental_health_analysis.ipynb` | Full analysis notebook |
 | `mental_health_dashboard.png` | 9-panel portfolio dashboard |
+| `app.py` | Streamlit interactive app |
 | `OSMI_Survey_Data.csv` | Raw dataset |
+| `models/` | Saved ML pipelines |
 | `*.png` | Individual chart outputs |
